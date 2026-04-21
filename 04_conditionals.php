@@ -67,3 +67,6 @@ switch($favcolor) {
     default:
      echo 'Your favorite color is not red, green or blue';
 }
+
+
+test
